@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Pandu Application</string>
+    <string name="pengantar1">Aplikasi Pandu dapat mempermudah Anda untuk \nberkomunikasi dengan Pemerintahan Desa dan \nmelaporkan masalah atau permohonan Anda \nsecara online</string>
+    <string name="pengantar2">Dengan aplikasi Pandu, Anda dapat dengan cepat \nmembuat laporan tentang masalah apa pun yang \nAnda temui . Tambahkan foto atau video untuk \nvalidasi data.</string>
+    <string name="silahkan">Silahkan login ke akun anda untuk mengakses\n layananan pemerintahan desa</string>
+    <string name="laporkan">Laporkan Masalah/Aduan Anda \ndengan mudah dan cepat</string>
+    <string name="masalah">Gunakan fitur "Lapor Kades" untuk dengan cepat dan \nmudah melaporkan masalah infrastruktur, lingkungan, atau \nkebutuhan masyarakat lainnya langsung kepada Kepala \nDesa.</string>
+    <string name="tambahkan">Anda dapat melampirkan foto atau video untuk \nmemberikan bukti yang jelas terkait laporan Anda.</string>
+    <string name="transparansi">Fitur ini memungkinkan Anda untuk berpartisipasi dalam \npembangunan desa dengan melaporkan masalah dan \nmembantu mencari solusi bersama-sama </string>
+    <string name="laporan">Terima Laporan: 23 Agustus 2023, 19.00 WIB \nPelapor: Fulan Abdul Salam</string>
+    <string name="perihal">Perihal : Penerangan lampu umum \nBeberapa lampu penerangan jalan u ...</string>
+    <string name="laporan2">Terima Laporan: 24 Agustus 2023, 13.00 WIB \nPelapor : Ahmad Wijayanto</string>
+    <string name="perihal2">Perihal : Bagaimana cara mengatasi sampah yang \nmenumpuk di beberapa ...</string>
+    <string name="layanan_aduan">Layanan Aduan "Lapor Pak Kades" adalah alat yang \ndisediakan untuk memudahkan masyarakat desa dalam \nmelaporkan permasalahan, mengajukan permohonan, atau \nberkomunikasi secara langsung dengan Kepala Desa. </string>
+    <string-array name="pilihan">
+        <item>Pembuatan KTP</item>
+        <item>Pembuatan Akta Kelahiran</item>
+        <item>Pembuatan Akta Kematian</item>
+        <item>Pembuatan Surat Izin Usaha</item>
+        <item>Pembuatan Kartu Keluarga</item>
+        <item>Pembuatan Surat Perkawinan</item>
+        <item>Pembuatan SKTM</item>
+    </string-array>
+
+    <string name="tata_cara">
+        1. Masuk ke aplikasi (nama aplikasi).
+        \n2. Pilih jenis layanan KTP .
+        \n3. Isi data pribadi dan unggah dokumen yang diminta.
+        \n4. Tunggu verifikasi data dan dokumen.
+        \n5. Setelah verifikasi berhasil, aplikasi akan mengirim \njadwal perekaman data biometrik
+        \n6. Pergi ke kantor pemerintah pada jadwal yang telah \ndiberikan.
+        \n7. Lakukan perekaman data biometrik.
+        \n8. Tunggu persetujuan dan informasi pengambilan KTP.
+        \n9. Ambil KTP baru Anda setelah selesai diproses.
+    </string>
+    <string name="dokumen">
+        1. Pas foto ukuran 4x6.
+        \n2. Surat pengantar RT dan RW, unduh di sini:
+                \n*Surat-Pengantar-RT.ocx
+                \n*Surat-Pengantar-RW.docx
+        \n3. Kartu Keluarga.
+        \n4. Surat keterangan pindah (opsional).
+    </string>
+    <string name="terimakasih">Terima kasih atas laporan Anda yang telah kami terima \npada tanggal 23 Agustus 2023, terk ...</string>
+    <string name="terimalaporan">Terima Laporan: 23 Agustus 2023 , 19.00 WIB \nPelapor: Nur Rahman ...</string>
+    <string name="ktp">Layanan Pembuatan KTP kami: Kemudahan, Tanpa \nBirokrasi, Tanpa Kunjungan Fisik.</string>
+    <string name="isi_nik">Isi NIK sesuai dengan yang tertera pada Kartu Keluarga.</string>
+    <string name="isi_nama">Isi Nama sesuai dengan yang tertera pada Kartu Keluarga.</string>
+    <string name="alert_permintaan">Permintaan Anda telah terkirim. Silakan \nperiksa status laporan atau aduan Anda \nsecara berkala pada tab "Tunggu", "Proses", \ndan "Selesai".</string>
+    <string name="alert_laporan">Laporan Anda telah terkirim. Silakan \nperiksa status laporan atau aduan Anda \nsecara berkala pada tab "Tunggu", "Proses", \ndan "Selesai".</string>
+    <string name="surat_pindah">Unggah surat keterangan pindah bila anda bukan warga setempat.</string>
+    <string name="ajuan1">Saya ingin mengajukan keluhan terkait \npenerangan lampu umum di beberapa wilayah \ndesa. Beberapa lampu penerangan jalan umum \ntampaknya tidak berfungsi dengan baik, dan ini \ntelah menciptakan situasi yang kurang aman \ndan tidak nyaman bagi penduduk setempat.</string>
+    <string name="ajuan2">Beberapa lampu tidak menyala sama sekali, \nsementara yang lainnya berkedip-kedip atau \nterangnya sangat redup. Ini telah \nmengakibatkan:</string>
+    <string name="ajuan3">1. Kurangnya Keamanan \n2. Tingkat Kecelakaan yang Lebih Tinggi \n3. Ketidaknyamanan.</string>
+    <string name="ajuan4">Dalam rangka meningkatkan situasi ini dan \nmemastikan kembali penerangan lampu umum \nyang memadai, saya mengajukan permintaan \nberikut</string>
+    <string name="ajuan5">1. Pemeriksaan dan Perbaikan Cepat \n2. Perluasan Penerangan \n3. Komunikasi Publik</string>
+    <string name="ajuan6">Terima kasih atas perhatian Anda terhadap \nmasalah ini, dan kami berharap untuk melihat \nperbaikan segera.</string>
+    <string name="laporan_tunggu_pengaduan">Laporan aduan telah diterima dan sedang dalam \ntahap peninjauan awal.</string>
+    <string name="laporan_proses_pengaduan">Laporan aduan telah melewati tahap peninjauan \nawal dan sedang dalam tahap proses.</string>
+    <string name="laporan_selesai_pengaduan">Laporan aduan telah selesai dan ditutup setelah \ntindakan yang sesuai telah diambil.</string>
+    <string name="detail_tunggu">Laporan aduan telah diterima dan sedang dalam \ntahap peninjauan awal.</string>
+    <string name="detail_tunggu2">Petugas akan mengevaluasi laporan aduan ini \nuntuk menentukan langkah selanjutnya.</string>
+    <string name="kepada_fulan">Kepada Fulan Abdul Salam,\n\nTerima kasih atas laporan Anda yang telah kami terima \npada tanggal 23 Agustus 2023, terk ....Lihat Selengkapnya</string>
+    <string name="Pelapor">Terima Laporan: 23 Agustus 2023 , 19.00 WIB \nPelapor: Nur Rahman ...Lihat Selengkapnya</string>
+    <string name="laporanwarga">Terima Laporan: 23 Agustus 2023, 19.00 WIB
+        \nPelapor: Fulan Abdul Salam
+        \n\nPerihal: Penerangan lampu umum
+        \nSaya ingin mengajukan keluhan terkait penerangan lampu umum di beberapa wilayah desa. Beberapa lampu penerangan jalan umum tampaknya tidak berfungsi dengan baik, dan ini telah menciptakan situasi yang kurang aman dan tidak nyaman bagi penduduk setempat.
+        \n\nBeberapa lampu tidak menyala sama sekali, sementara yang lainnya berkedip-kedip atau terangnya sangat redup. Ini telah mengakibatkan:
+        \n\n1. Kurangnya Keamanan
+        \n2. Tingkat Kecelakaan yang Lebih Tinggi
+        \n3. Ketidaknyamanan.
+        \n\nDalam rangka meningkatkan situasi ini dan memastikan kembali penerangan lampu umum yang memadai, saya mengajukan permintaan berikut:
+        \n\n1. Pemeriksaan dan Perbaikan Cepat
+        \n2. Perluasan Penerangan
+        \n3. Komunikasi Publik
+        \n\nTerima kasih atas perhatian Anda terhadap masalah ini, dan kami berharap untuk melihat perbaikan segera.
+    </string>
+    <string name="bls_warga">Saya kemarin lewat arah sini sangat gelap sekali, aduan yang mewakili </string>
+    <string name="bls_warga2">Semoga segera diperbaiki pak kades...</string>
+    <string name="bls_warga3">kemarin baru saja ada kecelakaan di sana, karena gelap</string>
+    <string name="bls_warga4">semoga segera diperbaiki ya</string>
+    <string name="bls_warga5">Kerja hebat pakk... penanganan cepat. Sangat membantu warga desa </string>
+    <string name="bls_warga6">Betul.... penanganannya cepat sekali</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+<<<<<<< HEAD
+            <value value="C:\Users\dk\.android\avd\Pixel_7_Pro_API_30.avd" />
+=======
+<<<<<<< HEAD
+            <value value="C:\Users\dk\.android\avd\Pixel_7_Pro_API_30.avd" />
+=======
+            <value value="C:\Users\Lenovo\.android\avd\Pixel_7_Pro_API_28.avd" />
+>>>>>>> 9ab19c1 (final-project)
+>>>>>>> 49a6c03 (final-project)
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetSelectedWithDropDown>
+<<<<<<< HEAD
+    <timeTargetWasSelectedWithDropDown value="2023-10-16T12:51:16.336047700Z" />
+=======
+<<<<<<< HEAD
+    <timeTargetWasSelectedWithDropDown value="2023-10-16T12:51:16.336047700Z" />
+=======
+    <timeTargetWasSelectedWithDropDown value="2023-10-18T14:38:11.610328900Z" />
+>>>>>>> 9ab19c1 (final-project)
+>>>>>>> 49a6c03 (final-project)
+  </component>
+</project>
